@@ -71,7 +71,7 @@ Click the sort icon in the table header to toggle between ascending and descendi
 
 ## 📸 Screenshot
 
-![Expense Tracker Screenshot](./public/screenshot.png)
+![Expense Tracker Screenshot](./public/image.png)
 
 ---
 
